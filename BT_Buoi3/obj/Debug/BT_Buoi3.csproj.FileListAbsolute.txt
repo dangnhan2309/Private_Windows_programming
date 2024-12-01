@@ -1,0 +1,10 @@
+C:\Users\NHAN\source\repos\BT_Buoi3\obj\Debug\BT_Buoi3.csproj.AssemblyReference.cache
+C:\Users\NHAN\source\repos\BT_Buoi3\obj\Debug\BT_Buoi3.Form1.resources
+C:\Users\NHAN\source\repos\BT_Buoi3\obj\Debug\BT_Buoi3.Properties.Resources.resources
+C:\Users\NHAN\source\repos\BT_Buoi3\obj\Debug\BT_Buoi3.csproj.GenerateResource.cache
+C:\Users\NHAN\source\repos\BT_Buoi3\obj\Debug\BT_Buoi3.csproj.CoreCompileInputs.cache
+C:\Users\NHAN\source\repos\BT_Buoi3\bin\Debug\BT_Buoi3.exe.config
+C:\Users\NHAN\source\repos\BT_Buoi3\bin\Debug\BT_Buoi3.exe
+C:\Users\NHAN\source\repos\BT_Buoi3\bin\Debug\BT_Buoi3.pdb
+C:\Users\NHAN\source\repos\BT_Buoi3\obj\Debug\BT_Buoi3.exe
+C:\Users\NHAN\source\repos\BT_Buoi3\obj\Debug\BT_Buoi3.pdb
