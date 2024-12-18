@@ -128,6 +128,7 @@
         private System.Windows.Forms.Button Xoa_but;
         private System.Windows.Forms.Button dong_but;
         private System.Windows.Forms.Label label1;
+
     }
 }
 

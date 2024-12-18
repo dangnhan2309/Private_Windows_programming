@@ -9,3 +9,14 @@ C:\Users\NHAN\source\repos\baitapbuoi4\obj\Debug\baitapbuoi4.csproj.CoreCompileI
 C:\Users\NHAN\source\repos\baitapbuoi4\obj\Debug\baitapbuoi4.exe
 C:\Users\NHAN\source\repos\baitapbuoi4\obj\Debug\baitapbuoi4.pdb
 C:\Users\NHAN\source\repos\baitapbuoi4\obj\Debug\baitapbuoi4.Form2.resources
+D:\Private_Windows_programming\baitapbuoi4\bin\Debug\baitapbuoi4.exe.config
+D:\Private_Windows_programming\baitapbuoi4\bin\Debug\baitapbuoi4.exe
+D:\Private_Windows_programming\baitapbuoi4\bin\Debug\baitapbuoi4.pdb
+D:\Private_Windows_programming\baitapbuoi4\obj\Debug\baitapbuoi4.csproj.AssemblyReference.cache
+D:\Private_Windows_programming\baitapbuoi4\obj\Debug\baitapbuoi4.Form1.resources
+D:\Private_Windows_programming\baitapbuoi4\obj\Debug\baitapbuoi4.Form2.resources
+D:\Private_Windows_programming\baitapbuoi4\obj\Debug\baitapbuoi4.Properties.Resources.resources
+D:\Private_Windows_programming\baitapbuoi4\obj\Debug\baitapbuoi4.csproj.GenerateResource.cache
+D:\Private_Windows_programming\baitapbuoi4\obj\Debug\baitapbuoi4.csproj.CoreCompileInputs.cache
+D:\Private_Windows_programming\baitapbuoi4\obj\Debug\baitapbuoi4.exe
+D:\Private_Windows_programming\baitapbuoi4\obj\Debug\baitapbuoi4.pdb
