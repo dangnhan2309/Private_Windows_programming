@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Private_Windows_programming\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2ABB15C-D29F-4DDC-A9E8-5638FFCAF6B4}|buoi5.csproj|D:\\Private_Windows_programming\\WindowsFormsApp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2ABB15C-D29F-4DDC-A9E8-5638FFCAF6B4}|buoi5.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E2ABB15C-D29F-4DDC-A9E8-5638FFCAF6B4}|buoi5.csproj|D:\\Private_Windows_programming\\WindowsFormsApp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E2ABB15C-D29F-4DDC-A9E8-5638FFCAF6B4}|buoi5.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ABB15C-D29F-4DDC-A9E8-5638FFCAF6B4}|buoi5.csproj|d:\\private_windows_programming\\windowsformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2ABB15C-D29F-4DDC-A9E8-5638FFCAF6B4}|buoi5.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2ABB15C-D29F-4DDC-A9E8-5638FFCAF6B4}|buoi5.csproj|D:\\Private_Windows_programming\\WindowsFormsApp1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,7 +91,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -111,6 +111,29 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOISAAAAAAAAAAAEwPkSAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-05T07:02:53.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Private_Windows_programming\\WindowsFormsApp1\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "D:\\Private_Windows_programming\\WindowsFormsApp1\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADgv3YAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:45:26.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\Form2.cs",
@@ -119,18 +142,7 @@
               "RelativeToolTip": "..\\buoi_6\\Form2.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwCAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:10:32.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAOISAAAAAAAAAAAEwPkSAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-12-05T07:02:53.186Z"
+              "WhenOpened": "2024-12-12T09:10:32.915Z"
             },
             {
               "$type": "Document",
@@ -142,8 +154,7 @@
               "RelativeToolTip": "..\\buoi_6\\Form2.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:09:54.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T09:09:54.4Z"
             },
             {
               "$type": "Document",
@@ -155,8 +166,7 @@
               "RelativeToolTip": "..\\buoi_6\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:08:50.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T09:08:50.93Z"
             },
             {
               "$type": "Document",
@@ -167,8 +177,7 @@
               "ToolTip": "D:\\Private_Windows_programming\\buoi_6\\Form2.cs [Design]",
               "RelativeToolTip": "..\\buoi_6\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:57:21.123Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-12T08:57:21.123Z"
             },
             {
               "$type": "Document",
@@ -228,8 +237,7 @@
               "RelativeToolTip": "..\\buoi_6\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T06:40:14.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T06:40:14.756Z"
             },
             {
               "$type": "Document",
@@ -240,21 +248,7 @@
               "ToolTip": "D:\\Private_Windows_programming\\buoi_6\\Form1.cs [Design]",
               "RelativeToolTip": "..\\buoi_6\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T05:51:56.045Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "D:\\Private_Windows_programming\\WindowsFormsApp1\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "D:\\Private_Windows_programming\\WindowsFormsApp1\\Form3.cs",
-              "RelativeToolTip": "Form3.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAADgv3YAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:45:26.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T05:51:56.045Z"
             },
             {
               "$type": "Document",
@@ -266,8 +260,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:10:47.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T09:10:47.906Z"
             },
             {
               "$type": "Document",
@@ -284,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "D:\\Private_Windows_programming\\WindowsFormsApp1\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -303,8 +296,7 @@
               "ToolTip": "D:\\Private_Windows_programming\\WindowsFormsApp1\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:41:29.951Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-05T08:41:29.951Z"
             },
             {
               "$type": "Document",
@@ -316,8 +308,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:38:31.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T06:38:31.973Z"
             },
             {
               "$type": "Document",
@@ -329,8 +320,7 @@
               "RelativeToolTip": "Form2.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:58:10.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T06:58:10.413Z"
             },
             {
               "$type": "Document",
@@ -342,8 +332,7 @@
               "RelativeToolTip": "Form2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAMwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:41:01.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T06:41:01.483Z"
             },
             {
               "$type": "Document",
@@ -368,8 +357,7 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:35:47.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T06:35:47.061Z"
             },
             {
               "$type": "Document",
@@ -380,8 +368,7 @@
               "ToolTip": "D:\\Private_Windows_programming\\WindowsFormsApp1\\Form2.cs [Design]",
               "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:35:04.934Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-05T06:35:04.934Z"
             },
             {
               "$type": "Document",
