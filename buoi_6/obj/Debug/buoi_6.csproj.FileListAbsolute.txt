@@ -1,8 +1,6 @@
 D:\Private_Windows_programming\buoi_6\bin\Debug\buoi_6.exe.config
 D:\Private_Windows_programming\buoi_6\bin\Debug\buoi_6.exe
 D:\Private_Windows_programming\buoi_6\bin\Debug\buoi_6.pdb
-D:\Private_Windows_programming\buoi_6\bin\Debug\EntityFramework.dll
-D:\Private_Windows_programming\buoi_6\bin\Debug\EntityFramework.SqlServer.dll
 D:\Private_Windows_programming\buoi_6\bin\Debug\EntityFramework.xml
 D:\Private_Windows_programming\buoi_6\bin\Debug\EntityFramework.SqlServer.xml
 D:\Private_Windows_programming\buoi_6\obj\Debug\buoi_6.csproj.AssemblyReference.cache
@@ -13,3 +11,4 @@ D:\Private_Windows_programming\buoi_6\obj\Debug\buoi_6.csproj.CoreCompileInputs.
 D:\Private_Windows_programming\buoi_6\obj\Debug\buoi_6.csproj.Up2Date
 D:\Private_Windows_programming\buoi_6\obj\Debug\buoi_6.exe
 D:\Private_Windows_programming\buoi_6\obj\Debug\buoi_6.pdb
+D:\Private_Windows_programming\buoi_6\obj\Debug\buoi_6.Form2.resources

@@ -30,7 +30,6 @@
         {
             this.txt_id = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.Class_combo_box = new System.Windows.Forms.ComboBox();
             this.txt_name = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.txt_DOB = new System.Windows.Forms.TextBox();
@@ -40,15 +39,15 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label8 = new System.Windows.Forms.Label();
-            this.Them_but = new System.Windows.Forms.Button();
-            this.Sua_but = new System.Windows.Forms.Button();
-            this.Xoa_but = new System.Windows.Forms.Button();
             this.name_id = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.name_Name = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.name_DOB = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.name_Gender = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.name_Class = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label8 = new System.Windows.Forms.Label();
+            this.Sua_but = new System.Windows.Forms.Button();
+            this.Xoa_but = new System.Windows.Forms.Button();
+            this.Class_combo_box = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -67,14 +66,6 @@
             this.label1.Size = new System.Drawing.Size(20, 16);
             this.label1.TabIndex = 1;
             this.label1.Text = "ID";
-            // 
-            // Class_combo_box
-            // 
-            this.Class_combo_box.FormattingEnabled = true;
-            this.Class_combo_box.Location = new System.Drawing.Point(150, 230);
-            this.Class_combo_box.Name = "Class_combo_box";
-            this.Class_combo_box.Size = new System.Drawing.Size(121, 24);
-            this.Class_combo_box.TabIndex = 2;
             // 
             // txt_name
             // 
@@ -156,43 +147,7 @@
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView1.Size = new System.Drawing.Size(334, 197);
             this.dataGridView1.TabIndex = 3;
-            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(75, 113);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(36, 16);
-            this.label8.TabIndex = 1;
-            this.label8.Text = "DOB";
-            // 
-            // Them_but
-            // 
-            this.Them_but.Location = new System.Drawing.Point(53, 323);
-            this.Them_but.Name = "Them_but";
-            this.Them_but.Size = new System.Drawing.Size(75, 23);
-            this.Them_but.TabIndex = 4;
-            this.Them_but.Text = "them";
-            this.Them_but.UseVisualStyleBackColor = true;
-            // 
-            // Sua_but
-            // 
-            this.Sua_but.Location = new System.Drawing.Point(155, 320);
-            this.Sua_but.Name = "Sua_but";
-            this.Sua_but.Size = new System.Drawing.Size(77, 25);
-            this.Sua_but.TabIndex = 5;
-            this.Sua_but.Text = "sua";
-            this.Sua_but.UseVisualStyleBackColor = true;
-            // 
-            // Xoa_but
-            // 
-            this.Xoa_but.Location = new System.Drawing.Point(258, 320);
-            this.Xoa_but.Name = "Xoa_but";
-            this.Xoa_but.Size = new System.Drawing.Size(77, 25);
-            this.Xoa_but.TabIndex = 5;
-            this.Xoa_but.Text = "xoa";
-            this.Xoa_but.UseVisualStyleBackColor = true;
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
             // name_id
             // 
@@ -229,16 +184,52 @@
             this.name_Class.MinimumWidth = 6;
             this.name_Class.Name = "name_Class";
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(75, 113);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(36, 16);
+            this.label8.TabIndex = 1;
+            this.label8.Text = "DOB";
+            // 
+            // Sua_but
+            // 
+            this.Sua_but.Location = new System.Drawing.Point(155, 320);
+            this.Sua_but.Name = "Sua_but";
+            this.Sua_but.Size = new System.Drawing.Size(77, 25);
+            this.Sua_but.TabIndex = 5;
+            this.Sua_but.Text = "sua/them";
+            this.Sua_but.UseVisualStyleBackColor = true;
+            this.Sua_but.Click += new System.EventHandler(this.Sua_but_Click);
+            // 
+            // Xoa_but
+            // 
+            this.Xoa_but.Location = new System.Drawing.Point(258, 320);
+            this.Xoa_but.Name = "Xoa_but";
+            this.Xoa_but.Size = new System.Drawing.Size(77, 25);
+            this.Xoa_but.TabIndex = 5;
+            this.Xoa_but.Text = "xoa";
+            this.Xoa_but.UseVisualStyleBackColor = true;
+            this.Xoa_but.Click += new System.EventHandler(this.Xoa_but_Click);
+            // 
+            // Class_combo_box
+            // 
+            this.Class_combo_box.FormattingEnabled = true;
+            this.Class_combo_box.Location = new System.Drawing.Point(150, 238);
+            this.Class_combo_box.Name = "Class_combo_box";
+            this.Class_combo_box.Size = new System.Drawing.Size(121, 24);
+            this.Class_combo_box.TabIndex = 6;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.Class_combo_box);
             this.Controls.Add(this.Xoa_but);
             this.Controls.Add(this.Sua_but);
-            this.Controls.Add(this.Them_but);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.Class_combo_box);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label5);
@@ -263,7 +254,7 @@
 
         private System.Windows.Forms.TextBox txt_id;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox Class_combo_box;
+        private System.Windows.Forms.ComboBox FillFalcutyComboBox;
         private System.Windows.Forms.TextBox txt_name;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txt_DOB;
@@ -274,7 +265,6 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Button Them_but;
         private System.Windows.Forms.Button Sua_but;
         private System.Windows.Forms.Button Xoa_but;
         private System.Windows.Forms.DataGridViewTextBoxColumn name_id;
@@ -282,5 +272,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn name_DOB;
         private System.Windows.Forms.DataGridViewTextBoxColumn name_Gender;
         private System.Windows.Forms.DataGridViewTextBoxColumn name_Class;
+        private System.Windows.Forms.ComboBox Class_combo_box;
     }
 }
