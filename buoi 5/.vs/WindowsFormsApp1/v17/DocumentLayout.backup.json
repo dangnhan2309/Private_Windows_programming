@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\Private_Windows_programming\\buoi 5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5DFF0C2-82DE-4BDF-B043-82264B20C621}|..\\danglamthenhan\\danglamthenhan.csproj|d:\\private_windows_programming\\danglamthenhan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38AA9D50-3040-4D90-90ED-C9F7AF4D04B7}|..\\buoi_6\\buoi_6.csproj|d:\\private_windows_programming\\buoi_6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,7 +34,7 @@
       "RelativeMoniker": "D:0:0:{E2ABB15C-D29F-4DDC-A9E8-5638FFCAF6B4}|buoi5.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2ABB15C-D29F-4DDC-A9E8-5638FFCAF6B4}|buoi5.csproj|d:\\private_windows_programming\\buoi 5\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E2ABB15C-D29F-4DDC-A9E8-5638FFCAF6B4}|buoi5.csproj|D:\\Private_Windows_programming\\buoi 5\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E2ABB15C-D29F-4DDC-A9E8-5638FFCAF6B4}|buoi5.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -91,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -111,7 +114,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Private_Windows_programming\\danglamthenhan\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\danglamthenhan\\Form1.cs",
+              "ToolTip": "D:\\Private_Windows_programming\\danglamthenhan\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\danglamthenhan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:07:08.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -121,15 +136,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
               "ToolTip": "D:\\Private_Windows_programming\\buoi 5\\Form3.cs [Design]",
               "RelativeToolTip": "Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:42:16.433Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-05T08:42:16.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\buoi_6\\Form2.cs",
+              "ToolTip": "D:\\Private_Windows_programming\\buoi_6\\Form2.cs",
+              "RelativeToolTip": "..\\buoi_6\\Form2.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowOMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:10:32.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -137,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\Form2.cs",
               "RelativeDocumentMoniker": "..\\buoi_6\\Form2.cs",
@@ -149,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Form3.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
@@ -157,25 +184,11 @@
               "RelativeToolTip": "Form3.cs",
               "ViewState": "AgIAAGEAAAAAAAAAAADgv3YAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:45:26.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T08:45:26.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\Form2.cs",
-              "RelativeDocumentMoniker": "..\\buoi_6\\Form2.cs",
-              "ToolTip": "D:\\Private_Windows_programming\\buoi_6\\Form2.cs",
-              "RelativeToolTip": "..\\buoi_6\\Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:10:32.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "..\\buoi_6\\Form2.Designer.cs",
@@ -183,12 +196,11 @@
               "RelativeToolTip": "..\\buoi_6\\Form2.Designer.cs",
               "ViewState": "AgIAALkAAAAAAAAAAAAgwNUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:09:54.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T09:09:54.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "..\\buoi_6\\Form1.Designer.cs",
@@ -196,12 +208,11 @@
               "RelativeToolTip": "..\\buoi_6\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:08:50.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T09:08:50.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\Student.cs",
               "RelativeDocumentMoniker": "..\\buoi_6\\Student.cs",
@@ -209,12 +220,11 @@
               "RelativeToolTip": "..\\buoi_6\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T06:50:01.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T06:50:01.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CLass.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\CLass.cs",
               "RelativeDocumentMoniker": "..\\buoi_6\\CLass.cs",
@@ -222,12 +232,11 @@
               "RelativeToolTip": "..\\buoi_6\\CLass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T06:53:37.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T06:53:37.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Student_IF.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\Student_IF.cs",
               "RelativeDocumentMoniker": "..\\buoi_6\\Student_IF.cs",
@@ -235,12 +244,11 @@
               "RelativeToolTip": "..\\buoi_6\\Student_IF.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T06:50:59.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T06:50:59.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\Program.cs",
               "RelativeDocumentMoniker": "..\\buoi_6\\Program.cs",
@@ -248,12 +256,11 @@
               "RelativeToolTip": "..\\buoi_6\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T06:50:57.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T06:50:57.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\Form1.cs",
               "RelativeDocumentMoniker": "..\\buoi_6\\Form1.cs",
@@ -261,24 +268,22 @@
               "RelativeToolTip": "..\\buoi_6\\Form1.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAIAwwA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T06:40:14.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T06:40:14.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi_6\\Form1.cs",
               "RelativeDocumentMoniker": "..\\buoi_6\\Form1.cs",
               "ToolTip": "D:\\Private_Windows_programming\\buoi_6\\Form1.cs [Design]",
               "RelativeToolTip": "..\\buoi_6\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T05:51:56.045Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-12T05:51:56.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -290,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Form3.Designer.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\Form3.Designer.cs",
               "RelativeDocumentMoniker": "Form3.Designer.cs",
@@ -298,24 +303,22 @@
               "RelativeToolTip": "Form3.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:57:08.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T08:57:08.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Private_Windows_programming\\buoi 5\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:41:29.951Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-05T08:41:29.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -323,12 +326,11 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:38:31.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T06:38:31.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
@@ -340,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -352,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "App.config",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -360,12 +362,11 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-05T06:35:48.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T06:35:48.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -373,12 +374,11 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:35:47.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T06:35:47.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -389,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Private_Windows_programming\\buoi 5\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
